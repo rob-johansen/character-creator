@@ -1,0 +1,7 @@
+.bar {
+  background: hsl(195deg, 20%, 86%);
+  bottom: 0;
+  height: 40%;
+  position: fixed;
+  width: 100%;
+}
